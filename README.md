@@ -14,10 +14,8 @@ Building scalable systems, solving hard algorithmic problems, and exploring AI-p
 
 # 🚀 About Me
 
-🎓 B.Tech Computer Science @ **PSIT Kanpur**  
-💻 Full-Stack Developer (React, Next.js, Node.js)  
-🧠 **Knight on LeetCode (1863 rating)**  
-🧩 **1100+ DSA problems solved**  
+🎓 B.E Electronics and Communication Engineering @ **DSEC Perambalur**  
+💻 Full-Stack Developer (React, Next.js, Node.js)   
 ⚡ Passionate about scalable systems, **Generative AI applications**, and intelligent developer tools
 🤖 Building **AI-powered platforms using LLMs, voice AI, and intelligent automation**
 
@@ -25,24 +23,24 @@ I enjoy building **production-grade web applications**, designing **clean APIs**
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
-### 💻 Languages
-C++ • C • JavaScript • TypeScript • Python • Java
+###  Languages
+C++ • C • JavaScript • Java
 
-### 🌐 Frontend
+###  Frontend
 React • Next.js • HTML5 • CSS3 • TailwindCSS
 
-### ⚙️ Backend
+###  Backend
 Node.js • Express.js • REST APIs • Authentication
 
-### 🗄 Databases
+###  Databases
 MongoDB • PostgreSQL • MySQL
 
-### 🛠 Tools
+###  Tools
 Git • GitHub • Docker • Postman • Prisma • Vercel
 
-### 🤖 AI / Gen AI
+###  AI / Gen AI
 LLMs • Groq (LLaMA 3.1) • Gemini • VAPI • Prompt Engineering • AI APIs
 
 ---
@@ -69,7 +67,7 @@ Groq API • Gemini API • VAPI • OpenAI-compatible APIs
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,js,ts,python,java,react,nextjs,nodejs,express,mongodb,postgres,mysql,git,docker,vercel,tailwind" />
+<img src="https://skillicons.dev/icons?i=cpp,c,js,python,java,react,nextjs,nodejs,express,mongodb,postgres,mysql,git,vercel,tailwind" />
 
 </p>
 
@@ -112,11 +110,11 @@ Participated in:
 
 <p align="center">
 
-<a href="https://linkedin.com/in/amber-hasan-b280b61b9">LinkedIn</a> •
-<a href="https://github.com/AmbyHasan">GitHub</a> •
-<a href="https://amberhasan.me">Portfolio</a> •
-<a href="mailto:amberhasan237@gmail.com">Email</a> •
-<a href="https://leetcode.com/u/AmberHasan/">LeetCode</a>
+<a href="https://www.linkedin.com/in/vignesh-t-web-dev/">LinkedIn</a> •
+<a href="https://github.com/VIGNESH-T2005">GitHub</a> •
+<a href="https://vignesh.me">Portfolio</a> •
+<a href="mailto:vigneshhari8739@gmail.com">Email</a> •
+<a href="https://leetcode.com/u/vignesh_webdev/">LeetCode</a>
 
 </p>
 
