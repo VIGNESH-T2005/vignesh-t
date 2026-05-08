@@ -12,7 +12,7 @@ Building scalable systems, solving hard algorithmic problems, and exploring AI-p
 
 ---
 
-# 🚀 About Me
+#  About Me
 
 🎓 B.E Electronics and Communication Engineering @ **DSEC Perambalur**  
 💻 Full-Stack Developer (React, Next.js, Node.js)   
