@@ -78,7 +78,7 @@ Groq API • Gemini API • VAPI • OpenAI-compatible APIs
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmbyHasan&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VIGNESH-T2005&theme=tokyonight"/>
 </p>
 
 ---
@@ -86,7 +86,7 @@ Groq API • Gemini API • VAPI • OpenAI-compatible APIs
 # 🧠 Competitive Programming
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/AmberHasan?theme=dark&font=baloo"/>
+<img src="https://leetcard.jacoblin.cool/vignesh_webdev?theme=dark&font=baloo"/>
 </p>
 
 🏆 **Knight on LeetCode**  
