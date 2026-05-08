@@ -125,7 +125,7 @@ Participated in:
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VIGNESH-T2005/VIGNESH-T2005/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/AmbyHasan/AmbyHasan/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
