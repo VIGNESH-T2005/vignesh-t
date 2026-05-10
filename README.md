@@ -84,7 +84,7 @@ Groq API • Gemini API • VAPI • OpenAI-compatible APIs
 
 <a href="https://www.linkedin.com/in/vignesh-t-web-dev/">LinkedIn</a> •
 <a href="https://github.com/VIGNESH-T2005">GitHub</a> •
-<a href="https://vignesh.me">Portfolio</a> •
+<a href="https://portfolio-web-beta-three-99.vercel.app/">Portfolio</a> •
 <a href="mailto:vigneshhari8739@gmail.com">Email</a> •
 <a href="https://leetcode.com/u/vignesh_webdev/">LeetCode</a>
 
