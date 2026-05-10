@@ -1,14 +1,4 @@
 <h1 align="center">Hi 👋, I'm Vignesh T</h1>
-
-
-
-<h3 align="center">
-Electronics and Communicatiom Engineering Student • Full Stack Developer • Generative AI Builder • Algorithm Enthusiast
-</h3>
-
-<p align="center">
-Building scalable systems, solving hard algorithmic problems, and exploring AI-powered applications.
-</p>
 <p align="center">
 
 <a href="https://www.linkedin.com/in/vignesh-t-web-dev/">LinkedIn</a> •
@@ -18,7 +8,16 @@ Building scalable systems, solving hard algorithmic problems, and exploring AI-p
 <a href="https://leetcode.com/u/vignesh_webdev/">LeetCode</a>
 
 </p>
----
+
+
+<h3 align="center">
+Electronics and Communicatiom Engineering Student • Full Stack Developer • Generative AI Builder • Algorithm Enthusiast
+</h3>
+
+<p align="center">
+Building scalable systems, solving hard algorithmic problems, and exploring AI-powered applications.
+</p>
+
 
 #  About Me
 
