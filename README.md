@@ -14,9 +14,9 @@
 Electronics and Communicatiom Engineering Student • Full Stack Developer • Generative AI Builder • Algorithm Enthusiast
 </h3>
 
-<p align="center">
+<h3 align="center">
 Building scalable systems, solving hard algorithmic problems, and exploring AI-powered applications.
-</p>
+</h3>
 
 
 #  About Me
